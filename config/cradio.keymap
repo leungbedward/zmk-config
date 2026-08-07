@@ -40,7 +40,7 @@
             key-positions = <28 29>;
             bindings = <&kp LALT>;
         };
-        }
+        
         combo_gui {
             timeout-ms = <50>;
             key-positions = <30 33>;
@@ -120,4 +120,4 @@
             >;
         };
     };
-
+};
