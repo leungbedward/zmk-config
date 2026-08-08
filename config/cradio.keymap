@@ -96,7 +96,7 @@
             &kp PIPE   &kp LBRC   &kp RBRC   &trans     &trans         &trans     &trans     &kp LBKT   &kp RBKT   &kp BSLH
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
         //│          │          │          │          │          │   │          │          │          │          │          │
-            &kp HOME   &kp PG_UP  &kp PG_DN  &kp END    &trans         &trans     &kp LEFT   &kp UP    &kp DOWN    &kp RIGHT
+            &kp HOME   &kp PG_UP  &kp PG_DN  &kp END    &kp LGUI       &trans     &kp LEFT   &kp UP    &kp DOWN    &kp RIGHT
         //╰──────────┴──────────┴──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┴──────────┴──────────╯
                                              &kp LCTRL  &kp LSHIFT      &trans    &trans
         //                                 ╰──────────┴──────────╯   ╰──────────┴──────────╯
