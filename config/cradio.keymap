@@ -27,23 +27,23 @@
         };
         combo_tab {
             timeout-ms = <50>;
-            key-positions = <0 14>;
+            key-positions = <0 2>;
             bindings = <&kp TAB>;
         };
         combo_ctrl {
             timeout-ms = <50>;
-            key-positions = <29 30>;
+            key-positions = <28 29>;
             bindings = <&kp LCTRL>;
         };
         combo_alt {
             timeout-ms = <50>;
-            key-positions = <28 29>;
+            key-positions = <27 28>;
             bindings = <&kp LALT>;
         };
         
         combo_gui {
             timeout-ms = <50>;
-            key-positions = <30 33>;
+            key-positions = <29 32>;
             bindings = <&kp LGUI>;
         };
     };
