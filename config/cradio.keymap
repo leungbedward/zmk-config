@@ -115,7 +115,7 @@
         //│          │          │          │ CLEAR BT │PROFILE 2 │   │          │          │          │          │          │
             &trans     &trans     &trans    &bt BT_CLR &bt BT_SEL 2    &trans     &trans     &trans     &trans     &trans
         //╰──────────┴──────────┴──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┴──────────┴──────────╯
-                                             &trans     &tog 1         &trans     &tog 1
+                                             &trans     &tog 0         &trans     &tog 0
         //                                 ╰──────────┴──────────╯   ╰──────────┴──────────╯
             >;
         };
